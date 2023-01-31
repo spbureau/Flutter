@@ -1,0 +1,9 @@
+onCreate:
+  - sudo snap install flutter --classic
+  - yes | flutter doctor --android-licenses
+onStart:
+  - |
+        printf "\ninstall flutter extension in vscode\n\n"
+        printf "GO TO dashboard and open the GUI by clicking GUI icon under more options of the workspace\n\n"
+        printf "\nthen run the command to run your flutter app\n\n"
+        printf "\nflutter run"
