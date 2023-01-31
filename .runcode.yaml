@@ -5,5 +5,6 @@ onStart:
   - |
         printf "\ninstall flutter extension in vscode\n\n"
         printf "GO TO dashboard and open the GUI by clicking GUI icon under more options of the workspace\n\n"
-        printf "\nthen run the command to run your flutter app\n\n"
-        printf "\nflutter run"
+        printf "open android studio and create AVD and then run it\n\n"
+        printf "then, to run the flutter project, run the following command\n\n"
+        printf "flutter run"
