@@ -42,3 +42,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+/google-chrome-stable_current_amd64.deb
+/google-chrome-stable_current_amd64.deb.1
